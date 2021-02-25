@@ -1,4 +1,6 @@
 # Dacon_LG
+https://dacon.io/competitions/official/235687/overview/
+
 
 ### 0110 업데이트
 - md 작업을 위한 vscode 환경 세팅
