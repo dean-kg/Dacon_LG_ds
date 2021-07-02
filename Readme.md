@@ -1,8 +1,8 @@
 # Dacon_LG 
 대회개요  
-https://dacon.io/competitions/official/235687/overview/
-파생변수 요약
-https://dacon.io/competitions/official/235687/codeshare/2356?page=1&dtype=recent
+https://dacon.io/competitions/official/235687/overview/    
+파생변수 요약    
+https://dacon.io/competitions/official/235687/codeshare/2356?page=1&dtype=recent    
 
 ### 0110 업데이트
 - md 작업을 위한 vscode 환경 세팅
